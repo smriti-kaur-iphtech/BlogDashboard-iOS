@@ -1,0 +1,20 @@
+PODS:
+  - Hero (1.6.2)
+  - SwiftSoup (2.6.0)
+
+DEPENDENCIES:
+  - Hero
+  - SwiftSoup
+
+SPEC REPOS:
+  trunk:
+    - Hero
+    - SwiftSoup
+
+SPEC CHECKSUMS:
+  Hero: c69009dbc9e2f0472e081adc644dba05fcedae72
+  SwiftSoup: dd9baab0fba4b6ab3ade23a6a47132ebd7d22cb1
+
+PODFILE CHECKSUM: c6ce12538664329a6cc8ed0f141da47a09031afa
+
+COCOAPODS: 1.12.0
